@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://atanas_17:123456atanas@cluster0.qweqj.mongodb.net/Cashoppe?retryWrites=true&w=majority",
+  "jwtSecret": "atanastoken"
+}
